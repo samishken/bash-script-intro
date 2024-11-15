@@ -1,0 +1,3 @@
+one two three
+
+# run "echo "Just get this word: Hello" | awk -F: '{print $2}' | cut -c2-"
